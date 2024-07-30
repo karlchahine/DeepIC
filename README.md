@@ -1,5 +1,5 @@
 # DeepIC
-Source code for the paper: DeepIC+: Learning Codes for Interference Channels
+Source code for the paper: DeepIC+: Learning Codes for Interference Channels.
 
 Abstract: A two-user interference channel is a canonical model for multiple one-to-one communications, where two transmitters wish to communicate with their receivers via a shared medium, examples of which include pairs of base stations and handsets near the cell boundary that suffer from interference. Practical codes and the fundamental limit of communications are unknown for interference channels as mathematical analysis becomes intractable. Hence, simple heuristic coding schemes are used in practice to mitigate the interference, e.g.,
 time division, treating interference as noise, and successive interference cancellation. These schemes are nearly optimal for extreme cases: when the interference is strong or weak. However, there is no optimality guarantee for channels with moderate interference. Designing reliable codes for channels with moderate interference is a long-standing open problem. Here we combine deep learning and network information theory to overcome the limitation on the tractability of analysis and construct finite-blocklength coding schemes for channels with various interference levels. 
